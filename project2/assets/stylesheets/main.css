@@ -1,0 +1,47 @@
+.a1{
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    display: inline-block;
+    margin: 20px;
+    text-align: left;
+}
+.a2{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    display: inline-block;
+    margin: 20px;
+    text-align: left;
+}
+
+.cola1{
+    background: red;
+}
+.cola2{
+    background: rgb(43, 226, 98);
+}
+.cola3{
+    background: violet;
+}
+.colb1{
+    background: yellow;
+}
+.colb2{
+    background: rgb(43, 226, 98);
+}
+.colb3{
+    background: gold;
+}
+.colc1{
+    background: green;
+}
+.colc2{
+    background: goldenrod;
+}
+.colc3{
+    background: red;
+}
+body{
+    text-align: center;
+}

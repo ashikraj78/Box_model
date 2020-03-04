@@ -1,0 +1,160 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* TOP */
+
+
+.top{
+    background: #1a1a1a;
+    padding: 20px;
+    color: white;
+    padding-bottom: 50px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.top h1{
+    display: inline-block;
+    font-size: 36px;
+    color: red;
+    
+}
+.top h2{
+    font-size: 36px;
+}
+.topnav{
+    display: inline-block;
+    margin-left: 70%;
+}
+.topnav a{
+    text-decoration: none;
+    text-align: right;
+    color: white;
+    margin-right: 5px;
+}
+.topdiv {
+    margin-bottom: 70px;
+}
+.top p{
+    width: 35%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.button1{
+    border: 2px solid white;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+}
+span{
+    font-weight: bold;
+}
+
+
+/* body */
+
+.button2{
+    border: 2px solid red;
+    padding: 10px;
+    text-decoration: none;
+    color: red;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.body1{
+    padding:50px 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.body1 h2{
+    color: red;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+.body1 p{
+    line-height: 1.5em;
+    color: #666666;
+}
+/*  body2 */
+.body2{
+    background: #d9d9d9;
+    text-align: center;
+    padding: 30px 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.body2 h2{
+    margin: 20px;
+    font-size: 30px;
+    color: red;
+}
+.body2 p{
+    margin: 12px;
+    color: #666666;
+    line-height: 1.5em;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    background: red;
+    margin: auto;
+    border-radius: 50%;
+}
+/* body3 */
+.body3{
+    background:#ff5050;
+    padding: 20px;
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.body3 h2{
+    font-size: 30px;
+}
+.form{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.input{
+    width: 100%;
+    background: none;
+    margin-bottom: 30px;
+}

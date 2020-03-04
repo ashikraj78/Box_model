@@ -1,0 +1,40 @@
+.box1{
+    background: red;
+    width: 150px;
+    height: 100px;
+    margin-bottom: 80px;
+    margin-left: 10px;    
+}
+.bdr1{
+    border: 5px solid black;
+}
+.bdr2{
+    border: 5px double black;
+    display: inline-block;
+}
+.bdr3{
+    margin-left: 80px;
+    display: inline-block;
+    border: 5px dashed black;
+}
+.bdr4{
+    display: inline-block;
+    border: 5px dotted black;
+}
+.bdr5{
+    margin-left: 80px;
+    display: inline-block;
+}
+.box6{
+    width: 400px;
+    padding: 20px 10px;
+    background: purple;
+}
+.box7{
+    background: red;
+    padding: 5px;
+    border-top: 10px solid blue;
+    border-right: 10px solid grey;
+    border-bottom: 10px solid yellow;
+    border-left: 10px solid green;
+}
